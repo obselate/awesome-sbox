@@ -6,12 +6,15 @@ A compilation of useful s&amp;box repositories
 # Tutorials / Guides / Getting Started
 
 [Official s&box tutorials](https://sbox.game/learn)
+
 [Freaks beginner resources](https://sbox.game/learn/frxxks/beginner-resources)
+
 [Wheatleymf's guide on shaders](https://shaders.wheatleymf.net/?entry=welcome)
 
 # Documentation
 
 [Official s&box documentation](https://sbox.game/dev/doc)
+
 [Official s&box API reference](https://sbox.game/api)
 
 # Projects
