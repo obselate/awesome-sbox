@@ -1,5 +1,5 @@
 # awesome-sbox
-A compilation of useful s&amp;box links and repositories
+A compilation of useful s&amp;box links and repositories. If you would like to [contribute](CONTRIBUTING.md) please submit a PR.
 <br/>
 <br/>
 # Tutorials / Guides / Getting Started
