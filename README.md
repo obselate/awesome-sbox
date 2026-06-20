@@ -64,6 +64,7 @@ A compilation of useful s&amp;box links and repositories. If you would like to [
 | Link | Description |
 |------|-------------|
 | [goo](https://github.com/obselate/Goo) | A full-featured s&box UI framework in C#. Structure, style, and behavior in one language |
+| [XGUI](https://github.com/Xenthio/XGUI-3) | Immediate-Mode GUI for s&box |
 
 # Other
 
