@@ -59,7 +59,7 @@ A compilation of useful s&amp;box links and repositories. If you would like to [
 |------|-------------|
 | [250GB of sound fx files](https://huggingface.co/buckets/lu2000luk/sfx) | Large database of sound effects |
 
-# Libraries
+## Libraries
 
 | Link | Description |
 |------|-------------|
